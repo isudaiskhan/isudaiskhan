@@ -54,14 +54,16 @@
 
 <h2 align="left">My Github Stats </h2>
 <br/>
+
 <div>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isudaiskhan&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="isudaiskhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isudaiskhan&theme=ayu-mirage&show_icons=true&locale=en" alt="isudaiskhan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=isudaiskhan&theme=ayu-mirage&show_icons=true&locale=en" alt="isudaiskhan" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isudaiskhan&theme=ayu-mirage&" alt="isudaiskhan" /></p>
 
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isudaiskhan&theme=ayu-mirage&show_icons=true&locale=en&layout=compact" alt="isudaiskhan" /></p>
+  </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isudaiskhan&theme=ayu-mirage&" alt="isudaiskhan" /></p>
 
-</div>
+
+
