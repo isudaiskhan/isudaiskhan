@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm sudais khan</h1>
 <h3 align="center">A passionate frontend react developer from pakistan</h3>
 
-<img align='right' alt='coding' width='400' src'https://www.google.com/search?q=animated+coding+gif&rlz=1C1CHZN_enPK1058PK1058&oq=animated+cod&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQwNjlqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#vhid=dbrfb5dvHO4gVM&vssid=l'/>
+![1705912725299](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/e722362d-6e10-4361-836d-22dec527ab16)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isudaiskhan&label=Profile%20views&color=0e75b6&style=flat" alt="isudaiskhan" /> </p>
 
