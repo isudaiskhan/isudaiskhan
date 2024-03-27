@@ -41,7 +41,7 @@
 
 
 
-<h2 align="left">Languages frameworks and Tools:</h2>
+<h2 align="left">Languages frameworks and Tools: ⚒️ </h2>
 <br/>
 <div>
   <a href=""https://skillicons.dev">
@@ -50,13 +50,13 @@
 </div>
  <br/>
 
-<h2 align="left">My Contribution Graph </h2>
+<h2 align="left">My Contribution Graph 🐍 </h2>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a>
 
 
 <br/><br/>
 
-<h2 align="left">My Github Stats </h2>
+<h2 align="left">My Github Stats ⚡ </h2>
 <br/>
 
 <div>
