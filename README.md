@@ -50,7 +50,7 @@
 <br/>
 <div>
   <a href=""https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,php,bootstrap,mongodb,mysql,ts,github,express,bootstrap,netlify,(https://skillicons.dev)"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,php,bootstrap,mongodb,mysql,ts,github,express,threejs,netlify,(https://skillicons.dev)"/>
   </a>
 </div>
  <br/>
