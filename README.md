@@ -50,9 +50,7 @@
  <br/><br/>
 
 <h2 align="left">My Contribution Graph </h2>
-<p align="left" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/isudaiskhan/isudaiskhan/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/ibilalfaizz/ibilalfaizz/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
-</p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a>
 
 
 
