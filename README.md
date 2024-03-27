@@ -42,18 +42,19 @@
 
 
 <h2 align="left">Languages frameworks and Tools:</h2>
+<br/>
 <div>
   <a href=""https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,php,bootstrap,mongodb,mysql,ts,github,express,bootstrap,netlify,(https://skillicons.dev)"/>
   </a>
 </div>
- <br/><br/>
+ <br/>
 
 <h2 align="left">My Contribution Graph </h2>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" style="max-width: 100%;"></a>
 
 
-
+<br/><br/>
 
 <h2 align="left">My Github Stats </h2>
 <br/>
