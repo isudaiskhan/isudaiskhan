@@ -44,7 +44,7 @@
 <h2 align="left">Languages frameworks and Tools:</h2>
 <div>
   <a href=""https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,php,bootstrap,mongodb,mysql,ts,github,express,bootstrap,(https://skillicons.dev)"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,nodejs,php,bootstrap,mongodb,mysql,ts,github,express,bootstrap,netlify,(https://skillicons.dev)"/>
   </a>
 </div>
  <br/><br/>
