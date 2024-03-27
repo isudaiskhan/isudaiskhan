@@ -19,7 +19,9 @@
 
 <br/><br/>
 
-<div align="center">
+<h2 align="left">Contact Me   📞 </h2>
+<br/>
+<div align="left">
 - <a href="https://www.linkedin.com/in/sudais-khan-a660912a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" targer"_blank" />
 </a>
@@ -35,11 +37,14 @@
 </div>
 <br/><br/>
 
+<h2 align="left">GitHub Trophies  🏆 </h2>
+<br/>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isudaiskhan" alt="isudaiskhan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+<br/>
 
 <h2 align="left">Languages frameworks and Tools: ⚒️ </h2>
 <br/>
