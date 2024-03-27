@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<h2 align="left">Contact Me   📞 </h2>
+<h2 align="left">Connect with me: 🤝 </h2>
 <br/>
 <div align="left">
 - <a href="https://www.linkedin.com/in/sudais-khan-a660912a2/">
