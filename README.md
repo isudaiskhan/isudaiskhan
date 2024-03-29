@@ -1,4 +1,4 @@
-![Sudais khan (1)](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/e2fba0e0-d323-432c-a546-dcb2fb27fe7a)
+![1705912725299](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/24039a33-e5a6-42ed-b653-2372d7293545)
 
 <h1 align="center">Hi 👋, I'm sudais khan</h1>
 <h3 align="center">A passionate frontend react developer from pakistan</h3>
