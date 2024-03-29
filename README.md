@@ -1,4 +1,4 @@
-![Sudais khan (1)](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/7a279e7e-ddf4-4325-826e-1297cb83dec0)
+![Sudaiskhan1-ezgif com-video-to-gif-converter](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/ebf81fba-bdf7-4d54-8b17-acac53535366)
 
 <h1 align="center">Hi 👋, I'm sudais khan</h1>
 <h3 align="center">A passionate frontend react developer from pakistan</h3>
