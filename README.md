@@ -1,4 +1,4 @@
-![1705912725299](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/24039a33-e5a6-42ed-b653-2372d7293545)
+![my-linkedin-banner](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/e42e7630-c58e-4c09-a40a-9d4bb2b17ef8)
 
 <h1 align="center">Hi 👋, I'm sudais khan</h1>
 <h3 align="center">A passionate Full Stack and MERN Stack Developer from pakistan</h3>
