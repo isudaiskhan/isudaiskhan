@@ -1,7 +1,7 @@
 ![1705912725299](https://github.com/isudaiskhan/isudaiskhan/assets/134719836/24039a33-e5a6-42ed-b653-2372d7293545)
 
 <h1 align="center">Hi 👋, I'm sudais khan</h1>
-<h3 align="center">A passionate frontend react developer from pakistan</h3>
+<h3 align="center">A passionate Full Stack and MERN Stack Developer from pakistan</h3>
 
 <img align="right" alt="Coder GIF" width=400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
@@ -9,11 +9,11 @@
 
 
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **App Development**
 
 - 👨‍💻 All of my projects are available at [https://sudaiskhan.netlify.app/](https://sudaiskhan.netlify.app/)
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **Reactj.s, nodej.s, Express.js, Javascript, Mongodb**
 
 - 📫 How to reach me **isudaiskhan54@gmail.com**
 
