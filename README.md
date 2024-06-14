@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sudaiskhan.netlify.app/](https://sudaiskhan.netlify.app/)
 
-- 💬 Ask me about **Reactj.s, nodej.s, Express.js, Javascript, Mongodb**
+- 💬 Ask me about **React.j.s, node.j.s, Express.js, Mongodb, Javascript**
 
 - 📫 How to reach me **isudaiskhan54@gmail.com**
 
